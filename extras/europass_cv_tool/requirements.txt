@@ -1,0 +1,3 @@
+# Regenerate Europass-style CV and cover letter (requires: pip install fpdf2)
+
+fpdf2>=2.7.0
